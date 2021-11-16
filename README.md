@@ -2,7 +2,7 @@
  
 what if code i wrote was only for the people i love?
 
-see [the license](./FRIENDS_AND_LOVERS_LICENSE.md)
+see [the license](./FRIENDS_AND_LOVERS_LICENSE)
 
 (also: i am not a lawyer)
 
